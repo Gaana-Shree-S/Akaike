@@ -1,10 +1,12 @@
 # Akaike
-
-
+Email classification machine learning model.
 
 
 
 # Description on files:
+
+## model.py -- This has model training code.
+
 
 ## Preprocess:
 
